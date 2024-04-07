@@ -1,0 +1,7 @@
+
+
+ques no 3.
+Write a program in c++ to list first 20 element of the key stream inn RC4. if the secret key is only 6 bytes with value 1 2 3 4 5  and 6.
+
+ques no 4.
+Write a program to illustrate the EIGamal encryption technique.
